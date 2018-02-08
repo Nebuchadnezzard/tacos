@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Preparateur de tacos</string>
+    <string name="pr_parer_un_tacos">Préparer un tacos : </string>
+    <string name="ajouter_ingr_dient">Ajouter ingrédient</string>
+</resources>
